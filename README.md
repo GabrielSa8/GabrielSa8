@@ -74,6 +74,6 @@
 ### 📊 GitHub Activity & Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GabrielSa8&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielSa8&layout=compact&theme=radical&hide_border=true" height="150" alt="Top Languages" />
+  <img src="profile/stats.svg" height="150" alt="GitHub Stats" />
+  <img src="profile/top-langs.svg" height="150" alt="Top Languages" />
 </div>
